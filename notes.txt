@@ -1,0 +1,23 @@
+Kaggle Scripts
+--------------
+
+	XGBoost
+	-------
+	1.) XGBoost_example.R (SCORE: 0.61249)
+			-> "xgboost" instalirati preko devtools i githuba (inače ne zna
+			    što s missing values)
+
+	2.) XGBoost_ttt12345.R (BEST) (SCORE: 0.64246)
+			-> varijacija osnovnog primjera s boljim parametrima
+
+	3.) XGBoost ostalo:
+			-> ostali xgboost primjeri su dali lošiji rezultat od ovoga
+
+	h2o package
+	-----------
+	-> h2o_nontuned.R je osnovna skripta koja koristi h2o paket, ali nije dodatno
+	   uređena za višedimenzionalne parametre
+
+	caret package
+	-------------
+	-> caret_cv.R 
